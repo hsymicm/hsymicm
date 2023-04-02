@@ -1,5 +1,5 @@
 ## 💫 About Me
-👀 Hello, I'm **Fadil Hisyam.**<br>🌱 I’m currently learning **frontend frameworks, like react and vue.**<br>💬 Ask me about **anything related to frontend stuff and UI/UX.**
+👀 Hello, I'm **Fadil Hisyam.**<br>🌱 I’m currently learning **frontend frameworks.**<br>💬 Ask me about **anything related to frontend stuff and UI/UX.**
 
 ## 🌐 Let's Connect
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hsym_icm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fadil-hisyam) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ichor)
