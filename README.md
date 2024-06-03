@@ -10,22 +10,6 @@ I'm a passionate developer from Jakarta, Indonesia, with a keen interest in web 
 - 💼 LinkedIn: [Fadil Hisyam](https://www.linkedin.com/in/fadil-hisyam/)
 - 📷 Instagram: [hsym_icm](https://www.instagram.com/hsym_icm/)
 
-## 🚀 Projects
-
-Here are a few of my notable projects:
-
-### [Waspada App](https://github.com/hsymicm/waspada-app)
-A mobile application built with React Native, Expo, and Firebase to help users stay alert and informed.
-
-### [SkinMate Backend API](https://github.com/hsymicm/skinmate-backend)
-A robust backend API for the SkinMate application, developed using Node.js and Express.
-
-### [Animaze](https://github.com/hsymicm/animaze)
-An anime watchlist with CRUD functionality made using React and Firebase.
-
-### [Higher Lower Anime](https://github.com/hsymicm/higher-lower-anime)
-A game built with Vue.js and TailwindCSS, comparing popular anime statistics.
-
 ## 🛠️ Skills
 
 - **Languages:** TypeScript, JavaScript, PHP, Python, HTML, CSS
