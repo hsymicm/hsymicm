@@ -26,4 +26,4 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 - 📷 Instagram: [@hsym_icm](https://www.instagram.com/hsym_icm/)
 ---
 
-“Why fit in when you were born to stand out?” – Dr. Seuss
+"Any sufficiently advanced bug is indistinguishable from a feature." – Rich Kulawiec
