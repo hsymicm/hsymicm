@@ -7,9 +7,6 @@
 
 I'm a passionate developer from Jakarta, Indonesia, with a keen interest in web and mobile application development. I love creating innovative solutions and constantly learning new technologies.
 
-- 💼 LinkedIn: [Fadil Hisyam](https://www.linkedin.com/in/fadil-hisyam/)
-- 📷 Instagram: [hsym_icm](https://www.instagram.com/hsym_icm/)
-
 ## 🛠️ Skills
 
 - **Languages:** TypeScript, JavaScript, PHP, Python, HTML, CSS
