@@ -1,8 +1,48 @@
-## 💫 About Me
-👀 Hello, I'm **Fadil Hisyam.**<br>🌱 I’m currently learning **frontend frameworks.**<br>💬 Ask me about **anything related to frontend stuff and UI/UX.**
+# Hi there, I'm Fadil Hisyam! 👋
 
-## 🌐 Let's Connect
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hsym_icm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fadil-hisyam) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ichor)
+![GitHub followers](https://img.shields.io/github/followers/hsymicm?label=Follow&style=social) 
+![GitHub stars](https://img.shields.io/github/stars/hsymicm?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-## 💻 Language and Tools
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  ![Vue](https://img.shields.io/badge/Vue-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)  ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+## 🌟 About Me
+
+I'm a passionate developer from Jakarta, Indonesia, with a keen interest in web and mobile application development. I love creating innovative solutions and constantly learning new technologies.
+
+- 💼 LinkedIn: [Fadil Hisyam](https://www.linkedin.com/in/fadil-hisyam/)
+- 📷 Instagram: [hsym_icm](https://www.instagram.com/hsym_icm/)
+
+## 🚀 Projects
+
+Here are a few of my notable projects:
+
+### [Waspada App](https://github.com/hsymicm/waspada-app)
+A mobile application built with React Native, Expo, and Firebase to help users stay alert and informed.
+
+### [SkinMate Backend API](https://github.com/hsymicm/skinmate-backend)
+A robust backend API for the SkinMate application, developed using Node.js and Express.
+
+### [Animaze](https://github.com/hsymicm/animaze)
+An anime watchlist with CRUD functionality made using React and Firebase.
+
+### [Higher Lower Anime](https://github.com/hsymicm/higher-lower-anime)
+A game built with Vue.js and TailwindCSS, comparing popular anime statistics.
+
+## 🛠️ Skills
+
+- **Languages:** TypeScript, JavaScript, PHP, Python, HTML, CSS
+- **Frameworks & Libraries:** React, Vue, TailwindCSS, Express, Firebase
+- **Tools:** Git, GitHub, VS Code, Figma
+
+## 📊 GitHub Stats
+
+![Fadil's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsymicm&show_icons=true&theme=radical)
+
+## 📬 Get in Touch
+
+I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out!
+
+- 📧 Email: [ichorvfx@gmail.com](mailto:ichorvfx@gmail.com)
+- 💬 Discord: hsymicm
+- 📷 Instagram: [@hsym_icm](https://www.instagram.com/hsym_icm/)
+---
+
+“Why fit in when you were born to stand out?” – Dr. Seuss
