@@ -10,9 +10,9 @@ I'm a passionate developer from Jakarta, Indonesia, with a keen interest in web 
 ## 🛠️ Skills
 
 - **Languages:** TypeScript, JavaScript, PHP, Python, HTML, CSS
-- **Frameworks & Libraries:** React, Vue, CodeIgniter, TailwindCSS, Node.js, Express
-- **Platforms:** Google Cloud Platform, Firebase, Vercel
-- **Tools:** Git, GitHub, VS Code, Docker, Figma
+- **Frameworks & Libraries:** React/React Native/Next.js, Vue/Nuxt.js, TailwindCSS, Node.js, Express
+- **Platform & Infra:** Google Cloud Platform, Firebase, Vercel, Docker, Linux
+- **Tools:** Git, GitHub, VS Code, Figma
 
 ## 📬 Get in Touch
 
